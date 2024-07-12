@@ -3,6 +3,9 @@ R code to run Kohonen Self Organizing Maps on geopotential height data. Code ste
 
 Adapted from code developed for https://journals.ametsoc.org/view/journals/clim/34/3/JCLI-D-20-0297.1.xml
 
+Please cite code as: 
+Udy, D. (2024). Self organizing map Rcode for Udy et al 2021. Zenodo. https://doi.org/10.5281/zenodo.12730195
+
 Thanks to Peter Gibson for providing the initial SOM code in R to get me started. You can find his paper on using SOMs for studying climate extremes here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD026256
 Also thanks to Marc Mallet for helping me improve the structure and flow of the code.
 
